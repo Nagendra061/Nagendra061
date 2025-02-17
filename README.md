@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m @Nagendra061<br>👀 I’m interested in learn new technologies like python,java,c,web technologies,etc.,<br>🌱 I’m currently learning Web designing front end and back end+database;<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me digitalpromax.blogspot.com</h2>
+<h2 align="left">👋 Hi, I’m @Nagendra061<br>👀 I’m interested in learning new technologies like Python, web technologies, etc.,<br>🌱 I’m currently learning Web designing front end and back end+database;<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me digitalpromax.Blogspot.com</h2>
 
 ###
 
